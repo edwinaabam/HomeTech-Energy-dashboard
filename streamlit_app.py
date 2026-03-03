@@ -60,7 +60,7 @@ st.markdown("""
 # --- CENTERED HEADER ---
 st.markdown("""
     <div class="banner">
-        <h1>HomeTech SmartSense Dashboard</h1>
+        <h1>HomeTech SmartSense Platform</h1>
         <p>IoT Energy & Property Analytics Portal</p>
     </div>
 """, unsafe_allow_html=True)
