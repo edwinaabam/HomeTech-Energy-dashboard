@@ -1,4 +1,11 @@
-# 🏠 HomeTech SmartSense: Energy Optimization Dashboard
+<p align="center">
+  <img src="./hometechoverview.png" alt="HomeTech Energy Solutions Dashboard" width="100%">
+</p>
+
+### <a href="https://hometech-energy.streamlit.app/" target="_blank">Live Dashboard: Access the HomeTech Energy Solutions Dashboard</a>
+
+
+# HomeTech SmartSense: Energy Optimization Dashboard
 
 ##  Project Overview
 This project addresses the challenge of inefficient energy usage in rental properties managed by **HomeTech Solutions**. By leveraging IoT sensor data (temperature, occupancy, HVAC settings), this dashboard provides property managers with real-time insights to reduce operational costs, enhance tenant comfort, and promote sustainability.
