@@ -2,7 +2,7 @@
   <img src="./hometechoverview.png" alt="HomeTech Energy Solutions Dashboard" width="100%">
 </p>
 
-### <a href="https://hometech-energy.streamlit.app/" target="_blank">Live Dashboard: Access the HomeTech Energy Solutions Dashboard</a>
+### <a href="https://hometech-energy.streamlit.app/" target="_blank">Access the Hometech app</a>
 
 
 # HomeTech SmartSense: Energy Optimization Dashboard
